@@ -5,11 +5,11 @@ O Conecta+ é uma iniciativa de impacto social voltada para a redução da exclu
 
 O foco principal é oferecer trilhas de aprendizado digital em formato simples e acessível, pensadas para funcionar até mesmo em celulares antigos e internet lenta, além de disponibilizar um mapa colaborativo de pontos de Wi-Fi gratuitos.
 
-🎯 Problema
+# 🎯 Problema
 
 Milhões de brasileiros ainda não têm acesso justo ao mundo digital, seja por falta de dispositivos adequados, conexão de qualidade ou letramento digital. Essa exclusão atinge principalmente estudantes de escolas públicas, idosos, pessoas com deficiência e comunidades de baixa renda, ampliando desigualdades em educação, trabalho e cidadania.
 
-💡 Solução Proposta
+# 💡 Solução Proposta
 
 O Conecta+ oferece:
 
@@ -21,7 +21,7 @@ Mapa colaborativo de pontos de Wi-Fi gratuitos e centros comunitários.
 
 Recursos de acessibilidade digital (legendas, transcrições e Libras em conteúdos-chave).
 
-👥 Público-Alvo
+# 👥 Público-Alvo
 
 Estudantes da rede pública sem acesso digital adequado.
 
@@ -31,7 +31,7 @@ Pessoas em situação de vulnerabilidade buscando oportunidades de estudo e trab
 
 Pessoas com deficiência que necessitam de recursos acessíveis.
 
-🚀 Diferenciais
+# 🚀 Diferenciais
 
 Leve, gratuito e inclusivo.
 
@@ -41,7 +41,7 @@ Conteúdos práticos, aplicáveis no dia a dia.
 
 Compromisso com acessibilidade digital (WCAG, Libras e legendas).
 
-📊 Impacto Esperado
+# 📊 Impacto Esperado
 
 Reduzir a exclusão digital e ampliar o acesso a oportunidades de estudo e trabalho.
 
@@ -49,7 +49,7 @@ Meta inicial: beneficiar 50 mil pessoas no primeiro ano.
 
 Indicadores: usuários ativos, aulas concluídas, pontos de Wi-Fi cadastrados no mapa colaborativo.
 
-🌱 Sustentabilidade
+# 🌱 Sustentabilidade
 
 Voluntariado de alunos e professores.
 
@@ -59,11 +59,11 @@ Parcerias com escolas públicas e centros comunitários.
 
 Práticas de TI verde, como reuso de equipamentos e hospedagem eficiente.
 
-📝 Encerramento
+# 📝 Encerramento
 
 O Conecta+ nasce com a missão de tornar a tecnologia acessível a todos. A proposta é simples, inclusiva e transformadora. Com apoio, compartilhamento e engajamento, será possível reduzir a desigualdade digital e abrir novas oportunidades.
 
-📎 Autoria
+# 📎 Autoria
 
 Maria Eduarda Gonçalves Dias
 
