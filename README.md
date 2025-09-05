@@ -1,5 +1,5 @@
-# #📘 Conecta+: Inclusão Digital Acessível para Todos
-# # 📖 Sobre o Projeto
+# 📘 Conecta+: Inclusão Digital Acessível para Todos
+# 📖 Sobre o Projeto
 
 O Conecta+ é uma iniciativa de impacto social voltada para a redução da exclusão digital no Brasil. O projeto nasceu dentro da disciplina de Experiência Prática IV – Ciência da Computação e tem como objetivo tornar a tecnologia mais acessível, inclusiva e transformadora para pessoas em situação de vulnerabilidade.
 
