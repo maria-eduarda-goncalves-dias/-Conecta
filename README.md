@@ -69,6 +69,6 @@ Maria Eduarda Gonçalves Dias
 
 Curso: Ciência da Computação
 
-LinkedIn:(www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311)
+LinkedIn:www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311
 
 Clique aqui para ver o projeto: https://raw.githubusercontent.com/maria-eduarda-goncalves-dias/-Conecta/main/Conecta%2B_InclusaoParaTodos.pdf
