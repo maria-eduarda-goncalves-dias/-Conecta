@@ -1,5 +1,5 @@
-📘 Conecta+: Inclusão Digital Acessível para Todos
-📖 Sobre o Projeto
+# #📘 Conecta+: Inclusão Digital Acessível para Todos
+# # 📖 Sobre o Projeto
 
 O Conecta+ é uma iniciativa de impacto social voltada para a redução da exclusão digital no Brasil. O projeto nasceu dentro da disciplina de Experiência Prática IV – Ciência da Computação e tem como objetivo tornar a tecnologia mais acessível, inclusiva e transformadora para pessoas em situação de vulnerabilidade.
 
@@ -71,4 +71,4 @@ Curso: Ciência da Computação
 
 LinkedIn:(www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311)
 
-Clique aqui para ver o projeto:
+Clique aqui para ver o projeto: https://raw.githubusercontent.com/maria-eduarda-goncalves-dias/-Conecta/main/Conecta%2B_InclusaoParaTodos.pdf
