@@ -66,6 +66,9 @@ O Conecta+ nasce com a missão de tornar a tecnologia acessível a todos. A prop
 📎 Autoria
 
 Maria Eduarda Gonçalves Dias
+
 Curso: Ciência da Computação
+
 LinkedIn:(www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311)
+
 Clique aqui para ver o projeto:
