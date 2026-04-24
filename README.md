@@ -67,7 +67,7 @@ O Conecta+ nasce com a missão de tornar a tecnologia acessível a todos. A prop
 
 Maria Eduarda Gonçalves Dias
 
-Curso: Ciência da Computação
+Curso: Análise e Desenvolvimento de Sistemas
 
 LinkedIn:www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311
 
